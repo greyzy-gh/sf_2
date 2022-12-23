@@ -6,7 +6,7 @@
 * [2. Какой кейс решаем?](https://github.com/greyzy-gh/sf_2/tree/main/Project_0/README.md#2.-Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/greyzy-gh/sf_2/tree/main/Project_0/README.md#3.-Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/greyzy-gh/sf_2/tree/main/Project_0/README.md#4.-Этапы-работы-над-проектом)
-* [5. Результаты](https://github.com/greyzy-gh/sf_2/tree/main/Project_0/README.md###5.-Результаты)
+* [5. Результаты](https://github.com/greyzy-gh/sf_2/tree/main/Project_0/README.md#5.-Результаты)
 * [6. Выводы](https://github.com/greyzy-gh/sf_2/tree/main/Project_0/README.md#Выводы)
 
 ### 1. Описание проекта
@@ -46,7 +46,7 @@
 
 Достигнут результат в четыре попытки
 
-### 6. Выводы
+### Выводы
 
 - Освоено базовое понимание работы с VS Code
 - Освоено базовое понимание работы с github
